@@ -2,7 +2,7 @@
 
 Now you can define **Continuous Integration** and **Continuous Delivery** (CI/CD) process as code with **Jenkins 2.0** for your projects in **iOS 10**. Activities like **build**, **test**, **code coverage**, **check style**, **reports** and **notifications** can be described in only one file.
 
-### What is the idea?
+### What is the idea?jjjjj
 
 One of the DevOps goals it to build process of CI/CD with the characteristics that can be written ones and run always.
 
